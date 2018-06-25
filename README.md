@@ -12,3 +12,8 @@ Implement a program that stores data in a typed file. Reading data from a file o
 8. Special job function
 9. Exiting the program without saving changes
 10. Quit with saving changes
+
+The firm has a list of orders for the purchase of goods for the next day. Each entry in the list contains: order number, delivery address, delivery time (from ... to ...), order quantity in m 3, weight in kg. There is also a list of couriers. Each entry of the list contains: courier number, courier name, time of work (from ..., to ...), load capacity of the car, max cargo volume for one shipment.
+Required:
+• List all courier orders in the order in which they are executed;
+• Provide the ability to add, delete and update entries from lists, as well as view lists completely
